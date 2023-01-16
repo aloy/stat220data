@@ -1,0 +1,5 @@
+load("/Users/aloy/Documents/stat220data/data/spotify.rda")
+ls()
+head(spotify)
+load("/Users/aloy/Documents/stat220data/data/nycdogs.rda")
+ls()

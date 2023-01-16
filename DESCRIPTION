@@ -1,0 +1,17 @@
+Package: stat220data
+Title: Data sets for Stat 220 
+Version: 0.0.0.9000
+Authors@R: 
+    person("Adam", "Loy", , "loyad01@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-5780-4611"))
+Description: Data sets used for class examples in Stat 220, introduction to data
+  science at Carleton college.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
+Depends: 
+    R (>= 2.10)
+LazyData: true
+URL: https://aloy.github.io/stat220data/
